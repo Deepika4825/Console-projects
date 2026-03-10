@@ -108,6 +108,7 @@ public class Atm{
                     break;
                 case 7:
                     System.out.println("Thank you using the ATM");
+                    break;
                 
                 default:
                     System.out.println("Invalid Choice");
